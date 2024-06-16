@@ -1,6 +1,6 @@
 # **Auto Push Point Taiko Trailblazers**
 
-### **GAS Fee CUSTOM - Multi Akun - Custom Delay**
+### ** Multi Akun - Custom Delay - Custom Gas**
 
 
 
